@@ -21,7 +21,6 @@ export default function IndexPage() {
       }
     }
   `);
-  console.log(window.__FLEXSEARCH__);
   return (
     <Layout title="Gatsby FlexSearch Plugin Test">
       <main>
